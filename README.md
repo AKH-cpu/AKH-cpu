@@ -3,7 +3,6 @@
 ## 🙋‍♂️ About Me
 I am AKHADAM AYOUB.I am currently a student of master of data science and decision support at the Faculty of Science and Technology of Marrakech.I am interested in a career in data science. I am having fun with learning and practicing about web technologies and concepts.
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning DATA SCIENCE & AI 
 - 📫 How to reach me: ayoubakh.dev@gmail.com 
 
