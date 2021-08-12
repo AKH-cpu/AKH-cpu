@@ -5,6 +5,7 @@ I am AKHADAM AYOUB.I am currently a student of master of data science and decisi
 
 - 🌱 I’m currently learning DATA SCIENCE & AI 
 - 📫 How to reach me: ayoubakh.dev@gmail.com 
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://akhadamayoub.netlify.app)**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
